@@ -1,0 +1,15 @@
+{
+    "name": "example/project",
+    "description": "aaaaaa",
+    "type": "project",
+    "require": {
+        "php": "^8.2"
+    },
+    "autoload": {
+        "files": [
+            "src/file.function.php",
+            "src/main.function.php",
+            "src/template.function.php"
+        ]
+    }
+}
